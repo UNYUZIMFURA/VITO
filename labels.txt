@@ -1,0 +1,2 @@
+0 OK Sign
+1 NOT_OK Sign
